@@ -21,13 +21,13 @@ public class QuickBiteApp {
         // TODO code application logic here
 
         // Crear 3 Paltos
-        Plato p1 = new Plato("Bandeja Paisa", 28000, 10);
-        Plato p2 = new Plato("Ajiaco Santafereño", 24000, 3);
-        Plato p3 = new Plato("Arroz con Pollo", 25000, 5);
+        Plato p1 = new Plato("Bandeja Paisa", 28000, 20);
+        Plato p2 = new Plato("Ajiaco Santafereño", 24000, 6);
+        Plato p3 = new Plato("Arroz con Pollo", 25000, 9);
 
         // Crea 2 cliente
-        Cliente c1 = new Cliente("Ana Torres", "ana@unab.edu.com.co", 60000);
-        Cliente c2 = new Cliente("Luis Rueda", "luis@unab.edu.com.co", 15000);
+        Cliente c1 = new Cliente("Sofia Sanchez", "sofia@unab.edu.com.co", 80000);
+        Cliente c2 = new Cliente("Juan  Gomez", "juan@unab.edu.com.co", 70000);
 
         // Crear pedidio
         // Pedido que se puede completar
